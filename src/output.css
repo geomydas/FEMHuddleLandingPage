@@ -418,6 +418,12 @@
     --transition-timing-function-in: cubic-bezier(0.4, 0, 1, 1);
     --transition-timing-function-out: cubic-bezier(0, 0, 0.2, 1);
     --transition-timing-function-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+    --color-pink: hsl(322, 100%, 66%);
+    --color-palecyan: hsl(193, 100%, 96%);
+    --color-darkcyan: hsl(192, 100%, 9%);
+    --color-grayishblue: hsl(208, 11%, 55%);
+    --font-family-poppins: Poppins, sans-serif;
+    --font-family-opensans: "Open Sans", sans-serif;
   }
 }
 @layer base {
